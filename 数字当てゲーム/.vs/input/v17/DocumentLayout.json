@@ -1,25 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ktc\\Documents\\Visual Studio 2022\\25a31a0034\\\u6570\u5B57\u5F53\u3066\u30B2\u30FC\u30E0\\",
+  "WorkspaceRootPath": "C:\\Users\\ktc\\Documents\\Github\\ktc25a31a0034\\CountGame\\\u6570\u5B57\u5F53\u3066\u30B2\u30FC\u30E0\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6EFCB66C-021C-4713-992A-0FB5FE531FAC}|input\\input.vcxproj|C:\\Users\\ktc\\Documents\\Visual Studio 2022\\25a31a0034\\\u6570\u5B57\u5F53\u3066\u30B2\u30FC\u30E0\\input\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{6EFCB66C-021C-4713-992A-0FB5FE531FAC}|input\\input.vcxproj|C:\\Users\\ktc\\Documents\\Github\\ktc25a31a0034\\CountGame\\\u6570\u5B57\u5F53\u3066\u30B2\u30FC\u30E0\\input\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{6EFCB66C-021C-4713-992A-0FB5FE531FAC}|input\\input.vcxproj|solutionrelative:input\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6EFCB66C-021C-4713-992A-0FB5FE531FAC}|input\\input.vcxproj|C:\\Users\\ktc\\Documents\\Visual Studio 2022\\25a31a0034\\\u6570\u5B57\u5F53\u3066\u30B2\u30FC\u30E0\\input\\input.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{6EFCB66C-021C-4713-992A-0FB5FE531FAC}|input\\input.vcxproj|C:\\Users\\ktc\\Documents\\Github\\ktc25a31a0034\\CountGame\\\u6570\u5B57\u5F53\u3066\u30B2\u30FC\u30E0\\input\\input.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{6EFCB66C-021C-4713-992A-0FB5FE531FAC}|input\\input.vcxproj|solutionrelative:input\\input.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6EFCB66C-021C-4713-992A-0FB5FE531FAC}|input\\input.vcxproj|C:\\Users\\ktc\\Documents\\Visual Studio 2022\\25a31a0034\\\u6570\u5B57\u5F53\u3066\u30B2\u30FC\u30E0\\input\\input.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{6EFCB66C-021C-4713-992A-0FB5FE531FAC}|input\\input.vcxproj|C:\\Users\\ktc\\Documents\\Github\\ktc25a31a0034\\CountGame\\\u6570\u5B57\u5F53\u3066\u30B2\u30FC\u30E0\\input\\input.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{6EFCB66C-021C-4713-992A-0FB5FE531FAC}|input\\input.vcxproj|solutionrelative:input\\input.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6EFCB66C-021C-4713-992A-0FB5FE531FAC}|input\\input.vcxproj|C:\\Users\\ktc\\Documents\\Visual Studio 2022\\25a31a0034\\\u6570\u5B57\u5F53\u3066\u30B2\u30FC\u30E0\\input\\judge.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{6EFCB66C-021C-4713-992A-0FB5FE531FAC}|input\\input.vcxproj|C:\\Users\\ktc\\Documents\\Github\\ktc25a31a0034\\CountGame\\\u6570\u5B57\u5F53\u3066\u30B2\u30FC\u30E0\\input\\judge.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{6EFCB66C-021C-4713-992A-0FB5FE531FAC}|input\\input.vcxproj|solutionrelative:input\\judge.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6EFCB66C-021C-4713-992A-0FB5FE531FAC}|input\\input.vcxproj|C:\\Users\\ktc\\Documents\\Visual Studio 2022\\25a31a0034\\\u6570\u5B57\u5F53\u3066\u30B2\u30FC\u30E0\\input\\judge.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{6EFCB66C-021C-4713-992A-0FB5FE531FAC}|input\\input.vcxproj|C:\\Users\\ktc\\Documents\\Github\\ktc25a31a0034\\CountGame\\\u6570\u5B57\u5F53\u3066\u30B2\u30FC\u30E0\\input\\judge.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{6EFCB66C-021C-4713-992A-0FB5FE531FAC}|input\\input.vcxproj|solutionrelative:input\\judge.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -36,9 +36,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\ktc\\Documents\\Visual Studio 2022\\25a31a0034\\\u6570\u5B57\u5F53\u3066\u30B2\u30FC\u30E0\\input\\main.cpp",
+              "DocumentMoniker": "C:\\Users\\ktc\\Documents\\Github\\ktc25a31a0034\\CountGame\\\u6570\u5B57\u5F53\u3066\u30B2\u30FC\u30E0\\input\\main.cpp",
               "RelativeDocumentMoniker": "input\\main.cpp",
-              "ToolTip": "C:\\Users\\ktc\\Documents\\Visual Studio 2022\\25a31a0034\\\u6570\u5B57\u5F53\u3066\u30B2\u30FC\u30E0\\input\\main.cpp",
+              "ToolTip": "C:\\Users\\ktc\\Documents\\Github\\ktc25a31a0034\\CountGame\\\u6570\u5B57\u5F53\u3066\u30B2\u30FC\u30E0\\input\\main.cpp",
               "RelativeToolTip": "input\\main.cpp",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -50,9 +50,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "judge.h",
-              "DocumentMoniker": "C:\\Users\\ktc\\Documents\\Visual Studio 2022\\25a31a0034\\\u6570\u5B57\u5F53\u3066\u30B2\u30FC\u30E0\\input\\judge.h",
+              "DocumentMoniker": "C:\\Users\\ktc\\Documents\\Github\\ktc25a31a0034\\CountGame\\\u6570\u5B57\u5F53\u3066\u30B2\u30FC\u30E0\\input\\judge.h",
               "RelativeDocumentMoniker": "input\\judge.h",
-              "ToolTip": "C:\\Users\\ktc\\Documents\\Visual Studio 2022\\25a31a0034\\\u6570\u5B57\u5F53\u3066\u30B2\u30FC\u30E0\\input\\judge.h",
+              "ToolTip": "C:\\Users\\ktc\\Documents\\Github\\ktc25a31a0034\\CountGame\\\u6570\u5B57\u5F53\u3066\u30B2\u30FC\u30E0\\input\\judge.h",
               "RelativeToolTip": "input\\judge.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -62,9 +62,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "judge.cpp",
-              "DocumentMoniker": "C:\\Users\\ktc\\Documents\\Visual Studio 2022\\25a31a0034\\\u6570\u5B57\u5F53\u3066\u30B2\u30FC\u30E0\\input\\judge.cpp",
+              "DocumentMoniker": "C:\\Users\\ktc\\Documents\\Github\\ktc25a31a0034\\CountGame\\\u6570\u5B57\u5F53\u3066\u30B2\u30FC\u30E0\\input\\judge.cpp",
               "RelativeDocumentMoniker": "input\\judge.cpp",
-              "ToolTip": "C:\\Users\\ktc\\Documents\\Visual Studio 2022\\25a31a0034\\\u6570\u5B57\u5F53\u3066\u30B2\u30FC\u30E0\\input\\judge.cpp",
+              "ToolTip": "C:\\Users\\ktc\\Documents\\Github\\ktc25a31a0034\\CountGame\\\u6570\u5B57\u5F53\u3066\u30B2\u30FC\u30E0\\input\\judge.cpp",
               "RelativeToolTip": "input\\judge.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -74,9 +74,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "input.h",
-              "DocumentMoniker": "C:\\Users\\ktc\\Documents\\Visual Studio 2022\\25a31a0034\\\u6570\u5B57\u5F53\u3066\u30B2\u30FC\u30E0\\input\\input.h",
+              "DocumentMoniker": "C:\\Users\\ktc\\Documents\\Github\\ktc25a31a0034\\CountGame\\\u6570\u5B57\u5F53\u3066\u30B2\u30FC\u30E0\\input\\input.h",
               "RelativeDocumentMoniker": "input\\input.h",
-              "ToolTip": "C:\\Users\\ktc\\Documents\\Visual Studio 2022\\25a31a0034\\\u6570\u5B57\u5F53\u3066\u30B2\u30FC\u30E0\\input\\input.h",
+              "ToolTip": "C:\\Users\\ktc\\Documents\\Github\\ktc25a31a0034\\CountGame\\\u6570\u5B57\u5F53\u3066\u30B2\u30FC\u30E0\\input\\input.h",
               "RelativeToolTip": "input\\input.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -86,9 +86,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "input.cpp",
-              "DocumentMoniker": "C:\\Users\\ktc\\Documents\\Visual Studio 2022\\25a31a0034\\\u6570\u5B57\u5F53\u3066\u30B2\u30FC\u30E0\\input\\input.cpp",
+              "DocumentMoniker": "C:\\Users\\ktc\\Documents\\Github\\ktc25a31a0034\\CountGame\\\u6570\u5B57\u5F53\u3066\u30B2\u30FC\u30E0\\input\\input.cpp",
               "RelativeDocumentMoniker": "input\\input.cpp",
-              "ToolTip": "C:\\Users\\ktc\\Documents\\Visual Studio 2022\\25a31a0034\\\u6570\u5B57\u5F53\u3066\u30B2\u30FC\u30E0\\input\\input.cpp",
+              "ToolTip": "C:\\Users\\ktc\\Documents\\Github\\ktc25a31a0034\\CountGame\\\u6570\u5B57\u5F53\u3066\u30B2\u30FC\u30E0\\input\\input.cpp",
               "RelativeToolTip": "input\\input.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
